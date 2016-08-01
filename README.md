@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 Adding a line for Stashing... 
 More changes from newfeature branch
 
-Stash untracked files example
+Stash untracked files example -- Multiple stash changes
 ## Purpose
 
 Sample website with plenty of files for demos
