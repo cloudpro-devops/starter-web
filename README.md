@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-Adding a line for rebasing... 
+Adding a line for Stashing... 
 More changes from newfeature branch
 
 ## Purpose
@@ -12,6 +12,6 @@ Sample website with plenty of files for demos
 ##Deployment
 	Deploy to Tomcat??
 
-##Copy right
+##Copy right --- Stash
 
 2016
